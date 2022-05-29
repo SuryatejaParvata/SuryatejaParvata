@@ -25,7 +25,7 @@
 <a href="https://medium.com/@tushar_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="tushar_98" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCBuqUJfggxhmlwMDsEHm56g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="er_tushar ahire" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tusharmadhavahi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tusharmadhavahi1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tusharahire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tusharahire" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/suryatejaparvata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tusharahire" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
