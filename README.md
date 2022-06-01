@@ -1,38 +1,61 @@
-<!-- [![MasterHead](https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif)](https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif) -->
-<img height="300px" width="1000px" src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif"/>
-<h1 align="center">Hi 👋, I'm Suryateja Parvata</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SuryatejaParvata&label=Profile%20views&color=0e75b6&style=flat" alt="SuryatejaParvata" /> <a href="https://github.com/SuryatejaParvata?tab=followers"><img src="https://img.shields.io/github/followers/SuryatejaParvata?label=Followers&style=social" alt="GitHub Badge"></a></p>
-
-<p align="left"> <a href="https://twitter.com/Redpilled_1" target="blank"><img src="https://img.shields.io/twitter/follow/Redpilled_1?logo=twitter&style=for-the-badge" alt="@Redpilled_1" /></a> </p>
-<img align="right" width="300" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **suryatejaparvata@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1FBbaaqIlYocSX-GpAWGz6uDIkSAVQ6bk5s7j9G_DZWk/edit](https://docs.google.com/document/d/1FBbaaqIlYocSX-GpAWGz6uDIkSAVQ6bk5s7j9G_DZWk/edit)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Redpilled_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tushara53823585" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suryatejaparvata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-ahire" height="30" width="40" /></a>
-<a href="https://instagram.com/suryaparvata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar_ahire_" height="30" width="40" /></a>
-<a href="https://medium.com/@tushar_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="tushar_98" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC4GeJftD0VH0VsuDgqjBBpw/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="er_tushar ahire" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suryatejaparvata?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@suryatejaparvata" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/suryatejaparvata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SuryatejaParvata" height="30" width="40" /></a>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuryatejaParvata&show_icons=true&locale=en&layout=compact" alt="SuryatejaParvata" /></p>
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=HardikThummar97.HardikThummar97)
+[![Github](https://img.shields.io/github/followers/HardikThummar97?label=Follow&style=social)](https://github.com/HardikThummar97)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SuryatejaParvata&show_icons=true&locale=en" alt="tushar504" /></p>
+<div size='20px'> Hi! My name is Hardik. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar504&" alt="tushar504" /></p>
+<h2> About Me </h2>
+
+<img width="50%" align="right" alt="Github" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" />
+
+
+- 🔭 Intrigued to learn new technologies in Web Development.
+
+- 🌱 I’m Currently learning MERN stack at MASAI school.
+
+- 💞️ I like to watch tech. videos and playing video games more often.
+
+- 💬 Have a look at my [portfolio](https://dev-hardik.netlify.app/).
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+  <a href= https://github.com/HardikThummar97?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+   <a href= https://github.com/HardikThummar97?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
+<a href= https://github.com/HardikThummar97?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+   <a href= https://github.com/HardikThummar97?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+  <a href= https://github.com/HardikThummar97?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
+  <a href= https://github.com/HardikThummar97?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
+<a href= https://github.com/HardikThummar97?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/HardikThummar97?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/HardikThummar97?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/hardik-thummar-b2b939143/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://twitter.com/HardikT42918737'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://dev-hardik.netlify.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/HardikThummar97'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  
+<br>
+<br>
+  <br>
+  
+[![Hardik's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HardikThummar97&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=HardikThummar97&show_icons=true&theme=tokyonight) | ![Hardik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HardikThummar97&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardikThummar97&theme=tokyonight) | Well...That's all ♾️ <br> Have a li'l smile 😄 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)|
+
+
+
+
+<br>
+
+
+-----
