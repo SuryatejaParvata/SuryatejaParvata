@@ -46,11 +46,11 @@
 <br>
   <br>
   
-[![Hardik's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HardikThummar97&theme=tokyonight)](https://git.io/praveenscience)
+[![Hardik's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SuryatejaParvata&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=HardikThummar97&show_icons=true&theme=tokyonight) | ![Hardik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HardikThummar97&theme=tokyonight) |
+| ![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=SuryatejaParvata&show_icons=true&theme=tokyonight) | ![SuryatejaParvata GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuryatejaParvata&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardikThummar97&theme=tokyonight) | Well...That's all ♾️ <br> Have a li'l smile 😄 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryatejaParvata&theme=tokyonight) | Well...That's all ♾️ <br> Have a li'l smile 😄 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)|
 
 
 
