@@ -22,7 +22,7 @@
 
 - 💞️ I like to watch tech. videos and playing video games more often.
 
-- 💬 Have a look at my [portfolio](https://put your netlify here.netlify.app/).
+- 💬 Have a look at my [portfolio](https://suryatejaparvataportfolio.vercel.app/).
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   <a href= https://github.com/SuryatejaParvata?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
@@ -46,9 +46,9 @@
 <br>
   <br>
   
-[![Hardik's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SuryatejaParvata&theme=tokyonight)](https://git.io/praveenscience)
+[![Suryateja's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SuryatejaParvata&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=SuryatejaParvata&show_icons=true&theme=tokyonight) | ![SuryatejaParvata GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuryatejaParvata&theme=tokyonight) |
+| ![Suryateja's github stats](https://github-readme-stats.vercel.app/api?username=SuryatejaParvata&show_icons=true&theme=tokyonight) | ![SuryatejaParvata GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuryatejaParvata&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryatejaParvata&theme=tokyonight) | Well...That's all ♾️ <br> Have a li'l smile 😄 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)|
 
